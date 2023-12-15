@@ -1,0 +1,9 @@
+D:\vs\Solve-Linear-Equations-master\Framework\bin\x86\DEBUG_SERVER\Framework.dll.config
+D:\vs\Solve-Linear-Equations-master\Framework\bin\x86\DEBUG_SERVER\Framework.dll
+D:\vs\Solve-Linear-Equations-master\Framework\bin\x86\DEBUG_SERVER\Framework.pdb
+D:\vs\Solve-Linear-Equations-master\Framework\bin\x86\DEBUG_SERVER\log4net.dll
+D:\vs\Solve-Linear-Equations-master\Framework\obj\x86\DEBUG_SERVER\Framework.csproj.AssemblyReference.cache
+D:\vs\Solve-Linear-Equations-master\Framework\obj\x86\DEBUG_SERVER\Framework.csproj.CoreCompileInputs.cache
+D:\vs\Solve-Linear-Equations-master\Framework\obj\x86\DEBUG_SERVER\Framework.csproj.CopyComplete
+D:\vs\Solve-Linear-Equations-master\Framework\obj\x86\DEBUG_SERVER\Framework.dll
+D:\vs\Solve-Linear-Equations-master\Framework\obj\x86\DEBUG_SERVER\Framework.pdb

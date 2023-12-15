@@ -1,0 +1,990 @@
+﻿2023-12-10 09:01:04,748 [3] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\Новый текстовый документ.txt(Добавлено：2) Неправильное количество параметров！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 208
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 09:02:05,369 [3] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 09:02:05,382 [3] INFO   
+ - Решение уравнения сводится к：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2023-12-10 09:02:05,394 [3] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 09:04:49,230 [3] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 09:04:49,244 [3] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 09:04:49,249 [3] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 09:04:58,943 [5] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 09:04:58,948 [5] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 09:04:58,951 [5] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 09:04:59,548 [6] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 09:04:59,553 [6] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 09:04:59,555 [6] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 09:05:25,590 [3] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 09:05:25,604 [3] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 09:05:25,612 [3] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 09:05:26,305 [5] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 09:05:26,306 [5] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 09:05:26,312 [5] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 09:05:26,777 [6] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 09:05:26,779 [6] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 09:05:26,784 [6] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:12:46,327 [3] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:12:46,357 [3] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:12:46,372 [3] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:12:50,588 [5] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:12:50,590 [5] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:12:50,595 [5] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:12:51,144 [6] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:12:51,146 [6] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:12:51,151 [6] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:12:51,680 [7] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:12:51,681 [7] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:12:51,686 [7] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:15:38,834 [3] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:15:38,846 [3] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:15:38,856 [3] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:15:40,954 [5] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:15:40,956 [5] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:15:40,960 [5] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:15:41,409 [6] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:15:41,411 [6] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:15:41,415 [6] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:15:43,073 [7] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:15:43,076 [7] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:15:43,080 [7] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:15:43,503 [8] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:15:43,505 [8] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:15:43,510 [8] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:15:43,781 [9] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:15:43,783 [9] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:15:43,788 [9] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:15:52,601 [10] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:15:52,603 [10] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:15:52,608 [10] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:15:53,162 [11] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:15:53,164 [11] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:15:53,169 [11] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:15:53,499 [12] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:15:53,502 [12] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:15:53,507 [12] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:16:02,188 [1] INFO   
+ - Выберите путь, по которому хранится файл системы уравнений：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input
+2023-12-10 12:16:03,808 [15] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:16:03,810 [15] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:16:03,815 [15] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:16:10,275 [16] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:16:10,278 [16] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:16:10,283 [16] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:16:12,780 [17] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:16:12,783 [17] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:16:12,789 [17] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:19:10,510 [3] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:19:10,523 [3] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:19:10,535 [3] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:25:06,085 [3] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:25:06,099 [3] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:25:06,110 [3] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:25:52,796 [3] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:25:52,809 [3] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:25:52,816 [3] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:25:54,546 [5] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:25:54,549 [5] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:25:54,553 [5] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:30:53,041 [3] INFO   
+ - Чтение файла：Новый текстовый документ.txt
+2023-12-10 12:30:53,054 [3] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2=15
+X0+2X1+X2=16
+X0+X1+2X2=17
+
+2023-12-10 12:30:53,064 [3] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:33:53,513 [3] INFO   
+ - Чтение файла：新建文本文档1.txt
+2023-12-10 12:33:53,537 [3] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:33:53,544 [3] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:33:53,550 [3] INFO   
+ - Чтение файла：新建文本文档2.txt
+2023-12-10 12:33:53,552 [3] INFO   
+ - Решение уравнения сводится к：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2023-12-10 12:33:53,558 [3] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:33:53,565 [3] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档3.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 12:33:53,572 [3] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档4.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 12:33:53,578 [3] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档5.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 12:33:53,583 [3] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档6.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 12:33:53,587 [3] INFO   
+ - Чтение файла：新建文本文档7.txt
+2023-12-10 12:33:53,590 [3] INFO   
+ - Решение уравнения сводится к：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2023-12-10 12:33:53,595 [3] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:33:54,353 [5] INFO   
+ - Чтение файла：新建文本文档1.txt
+2023-12-10 12:33:54,355 [5] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:33:54,360 [5] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:33:54,363 [5] INFO   
+ - Чтение файла：新建文本文档2.txt
+2023-12-10 12:33:54,365 [5] INFO   
+ - Решение уравнения сводится к：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2023-12-10 12:33:54,370 [5] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:33:54,374 [5] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档3.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 12:33:54,379 [5] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档4.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 12:33:54,384 [5] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档5.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 12:33:54,389 [5] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档6.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 12:33:54,392 [5] INFO   
+ - Чтение файла：新建文本文档7.txt
+2023-12-10 12:33:54,394 [5] INFO   
+ - Решение уравнения сводится к：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2023-12-10 12:33:54,399 [5] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:33:54,865 [6] INFO   
+ - Чтение файла：新建文本文档1.txt
+2023-12-10 12:33:54,869 [6] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:33:54,874 [6] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:33:54,876 [6] INFO   
+ - Чтение файла：新建文本文档2.txt
+2023-12-10 12:33:54,878 [6] INFO   
+ - Решение уравнения сводится к：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2023-12-10 12:33:54,882 [6] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:33:54,886 [6] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档3.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 12:33:54,891 [6] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档4.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 12:33:54,896 [6] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档5.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 12:33:54,901 [6] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档6.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 12:33:54,903 [6] INFO   
+ - Чтение файла：新建文本文档7.txt
+2023-12-10 12:33:54,905 [6] INFO   
+ - Решение уравнения сводится к：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2023-12-10 12:33:54,909 [6] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:33:57,703 [7] INFO   
+ - Чтение файла：新建文本文档1.txt
+2023-12-10 12:33:57,706 [7] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 12:33:57,713 [7] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:33:57,716 [7] INFO   
+ - Чтение файла：新建文本文档2.txt
+2023-12-10 12:33:57,720 [7] INFO   
+ - Решение уравнения сводится к：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2023-12-10 12:33:57,725 [7] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 12:33:57,730 [7] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档3.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 12:33:57,736 [7] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档4.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 12:33:57,743 [7] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档5.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 12:33:57,748 [7] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档6.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 12:33:57,752 [7] INFO   
+ - Чтение файла：新建文本文档7.txt
+2023-12-10 12:33:57,754 [7] INFO   
+ - Решение уравнения сводится к：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2023-12-10 12:33:57,761 [7] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 13:40:47,144 [3] INFO   
+ - Чтение файла：新建文本文档1.txt
+2023-12-10 13:40:47,176 [3] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 13:40:47,184 [3] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 13:40:47,189 [3] INFO   
+ - Чтение файла：新建文本文档2.txt
+2023-12-10 13:40:47,191 [3] INFO   
+ - Решение уравнения сводится к：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2023-12-10 13:40:47,196 [3] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 13:40:47,201 [3] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档3.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:47,207 [3] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档4.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:47,213 [3] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档5.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:47,218 [3] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档6.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:47,221 [3] INFO   
+ - Чтение файла：新建文本文档7.txt
+2023-12-10 13:40:47,223 [3] INFO   
+ - Решение уравнения сводится к：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2023-12-10 13:40:47,227 [3] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 13:40:50,866 [5] INFO   
+ - Чтение файла：新建文本文档1.txt
+2023-12-10 13:40:50,868 [5] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 13:40:50,873 [5] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 13:40:50,875 [5] INFO   
+ - Чтение файла：新建文本文档2.txt
+2023-12-10 13:40:50,877 [5] INFO   
+ - Решение уравнения сводится к：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2023-12-10 13:40:50,882 [5] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 13:40:50,886 [5] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档3.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:50,891 [5] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档4.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:50,895 [5] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档5.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:50,900 [5] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档6.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:50,903 [5] INFO   
+ - Чтение файла：新建文本文档7.txt
+2023-12-10 13:40:50,906 [5] INFO   
+ - Решение уравнения сводится к：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2023-12-10 13:40:50,911 [5] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 13:40:51,349 [6] INFO   
+ - Чтение файла：新建文本文档1.txt
+2023-12-10 13:40:51,351 [6] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 13:40:51,355 [6] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 13:40:51,357 [6] INFO   
+ - Чтение файла：新建文本文档2.txt
+2023-12-10 13:40:51,359 [6] INFO   
+ - Решение уравнения сводится к：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2023-12-10 13:40:51,364 [6] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 13:40:51,368 [6] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档3.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:51,373 [6] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档4.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:51,377 [6] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档5.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:51,382 [6] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档6.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:51,385 [6] INFO   
+ - Чтение файла：新建文本文档7.txt
+2023-12-10 13:40:51,387 [6] INFO   
+ - Решение уравнения сводится к：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2023-12-10 13:40:51,391 [6] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 13:40:51,752 [7] INFO   
+ - Чтение файла：新建文本文档1.txt
+2023-12-10 13:40:51,755 [7] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 13:40:51,760 [7] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 13:40:51,762 [7] INFO   
+ - Чтение файла：新建文本文档2.txt
+2023-12-10 13:40:51,765 [7] INFO   
+ - Решение уравнения сводится к：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2023-12-10 13:40:51,769 [7] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 13:40:51,773 [7] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档3.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:51,778 [7] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档4.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:51,782 [7] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档5.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:51,787 [7] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档6.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:51,790 [7] INFO   
+ - Чтение файла：新建文本文档7.txt
+2023-12-10 13:40:51,792 [7] INFO   
+ - Решение уравнения сводится к：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2023-12-10 13:40:51,799 [7] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 13:40:52,731 [6] INFO   
+ - Чтение файла：新建文本文档1.txt
+2023-12-10 13:40:52,733 [6] INFO   
+ - Решение уравнения сводится к：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2023-12-10 13:40:52,738 [6] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 13:40:52,741 [6] INFO   
+ - Чтение файла：新建文本文档2.txt
+2023-12-10 13:40:52,743 [6] INFO   
+ - Решение уравнения сводится к：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2023-12-10 13:40:52,747 [6] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170
+2023-12-10 13:40:52,752 [6] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档3.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:52,756 [6] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档4.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:52,761 [6] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档5.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:52,766 [6] ERROR  
+ - System.Exception: Ошибка：D:\vs\Solve-Linear-Equations-master\Calculate\bin\Release\input\新建文本文档6.txtФайл пуст！
+   в Iterative.MainForm.readData(String filePath) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 199
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 158
+2023-12-10 13:40:52,768 [6] INFO   
+ - Чтение файла：新建文本文档7.txt
+2023-12-10 13:40:52,770 [6] INFO   
+ - Решение уравнения сводится к：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2023-12-10 13:40:52,775 [6] ERROR  
+ - System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Iterative.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 89
+   в Iterative.MainForm.Run() в D:\vs\Solve-Linear-Equations-master\Calculate\Form1.cs:строка 170

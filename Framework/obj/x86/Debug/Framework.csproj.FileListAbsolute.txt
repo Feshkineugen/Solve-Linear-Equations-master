@@ -1,0 +1,15 @@
+D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Framework\bin\x86\Debug\Framework.dll.config
+D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Framework\bin\x86\Debug\Framework.dll
+D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Framework\bin\x86\Debug\Framework.pdb
+D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Framework\bin\x86\Debug\log4net.dll
+D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Framework\obj\x86\Debug\Framework.dll
+D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Framework\obj\x86\Debug\Framework.pdb
+D:\vs\Solve-Linear-Equations-master\Framework\bin\x86\Debug\Framework.dll.config
+D:\vs\Solve-Linear-Equations-master\Framework\bin\x86\Debug\Framework.dll
+D:\vs\Solve-Linear-Equations-master\Framework\bin\x86\Debug\Framework.pdb
+D:\vs\Solve-Linear-Equations-master\Framework\bin\x86\Debug\log4net.dll
+D:\vs\Solve-Linear-Equations-master\Framework\obj\x86\Debug\Framework.csproj.AssemblyReference.cache
+D:\vs\Solve-Linear-Equations-master\Framework\obj\x86\Debug\Framework.csproj.CoreCompileInputs.cache
+D:\vs\Solve-Linear-Equations-master\Framework\obj\x86\Debug\Framework.csproj.CopyComplete
+D:\vs\Solve-Linear-Equations-master\Framework\obj\x86\Debug\Framework.dll
+D:\vs\Solve-Linear-Equations-master\Framework\obj\x86\Debug\Framework.pdb
